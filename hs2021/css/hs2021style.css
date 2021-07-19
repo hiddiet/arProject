@@ -10,6 +10,9 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
   width: 100%;
   }
 
+.page-title{
+  width=100%;
+  }
   
 .page-title h1{
   font size : 2rem;
@@ -22,6 +25,6 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
   }
 
 .viewerstyle{
-  width: 720px ;
+  max-width: 100% ;
   }
 
