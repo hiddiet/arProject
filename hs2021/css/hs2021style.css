@@ -18,6 +18,9 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
 	margin:10px;
 	width:600px;
 	height:720px;
+	border-width: 1px 0px 1px 0px;
+	border-style:solid;
+
 }
 
 
