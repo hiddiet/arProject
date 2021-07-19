@@ -2,6 +2,7 @@ div{
   width:540;
   height:960;
   border-wifth:thin;
+  border-style:solid;
   }
 
 @charset "UTF-8";
