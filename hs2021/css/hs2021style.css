@@ -1,29 +1,72 @@
 @charset "UTF-8";
+/* CSS Document */
 
-div{
-  width:540;
-  height:960;
-  border-width:2px;
-  border-style:solid;
-  }
 
 body{
 font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
    }
 
-
-.page-title{
-  }
-  
-.page-title h1{
-  font size : 2rem;
-  margin-top:14px;
-  text-align: center;
-  }
+.center{
+	width:auto;
+	display:flex;
+	align-items: center;
+	justify-content: center;}
 
 
-.page-title p{
-  text-align: center ;
-  }
+.frame{
+	border-width: 2px;
+	border-style:solid;
+	padding: 10px;
+	margin:10px;
+	width:540px;
+	height:720px;
+}
 
 
+.head-title{
+	text-align: center;
+	height:200px;
+}
+
+.ar-wrap{
+	display:flex;
+	widows: 520px;
+	height:400px;
+	justify-content: center;
+	align-items:center;
+}
+
+.ar{
+	width:400px;
+}
+
+.ar img{
+	width:400px;
+}
+
+
+.footflex-container{
+	height:100px;
+	display:flex;
+	justify-content: flex-end;
+	align-items:flex-end;
+}
+
+.flex-item{
+	height:42px;
+}
+
+.flex-item p{
+	margin-top: 10px;
+	margin-right: 10px;
+	
+}
+
+.logo-wrap{
+	height:42px;
+	margin:2px;
+}
+
+.logo-wrap img{
+	height:32px;
+}
