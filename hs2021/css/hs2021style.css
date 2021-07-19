@@ -1,9 +1,13 @@
 @charset "UTF-8";
+html{
+  width="100%";
+  }
+
 
 body{
 font-family: "Yu FGothic Medium","游ゴシック Medium" ,YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
   alien="center";
-  width="1920";
+  width="100%";
   }
 
 title{
@@ -11,6 +15,6 @@ title{
   }
   
 viewer{
-  width="960px";
+  width="100%";
   }
 
