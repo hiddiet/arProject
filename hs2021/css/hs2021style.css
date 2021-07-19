@@ -1,12 +1,11 @@
 @charset "UTF-8";
 html{
-  width= 100% ;
   font-size= 100% ;
   }
 
 
 body{
-font-family: "Yu FGothic Medium","游ゴシック Medium" ,YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
+font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
   align= center;
   width= 100%";
   }
