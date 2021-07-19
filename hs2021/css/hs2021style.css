@@ -2,7 +2,7 @@
 
 body{
 font-family: "Yu FGothic Medium","游ゴシック Medium" ,YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
-  alien=center
+  alien="center"
   width="1920"
   }
 
@@ -10,3 +10,4 @@ title{
   font size = 2rem
   }
   
+
