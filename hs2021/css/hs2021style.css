@@ -1,5 +1,5 @@
 div{
-  width:500px;
+  width:auto;
   }
 
 @charset "UTF-8";
@@ -23,5 +23,6 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
   }
 
 .viewerstyle{
+ 
   }
 
