@@ -1,25 +1,25 @@
 @charset "UTF-8";
 html{
-  width="100%";
-  font-size="100%";
+  width= 100% ;
+  font-size= 100% ;
   }
 
 
 body{
 font-family: "Yu FGothic Medium","游ゴシック Medium" ,YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
-  align="center";
-  width="100%";
+  align= center;
+  width= 100%";
   }
 
 .page-title{
-  font size = "2rem";
-  text-align="center";
+  font size = 2rem;
+  text-align= center;
   }
   
 .page-title p{
-  text-align="right";
+  text-align= right ;
 
 .viewer{
-  width="100%";
+  width= 100% ;
   }
 
