@@ -1,34 +1,54 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-    <meta charset="utf-8">
-    <title>HAPPY SUMMER 2021</title>
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Happy Summer 2021</title>
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
 	<link href="css/hs2021style.css" rel="stylesheet">
-  </head>
-  
-  <body>
-<div id="home">
-<header class="page-title">
-    <h1>暑中お見舞い申し上げます</h1>
-  <p>右下のARマークをクリックしてください</p>
-  </header>
-  
- <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-    
+</head>
+
+<body>
+<div class="center">
+	<div class="frame">
+	<header class="head-title">
+		<h1>暑中お見舞い申し上げます</h1>
+		<p>右下のARマークをタップしてください</p>
+	</header>
+	<article class="ar-wrap">
+		<div class="ar">
 <model-viewer
   ar
   ar-modes="scene-viewer webxr quick-look"
   src="./HappySummer2021.glb"
   ios-src="./HappySummer2021.usdz"
   alt="Cyawan"
-style="width:800px;height:450px; align:center;" 
+style="width:400px;height:200px; align:center;" 
   auto-rotate
   camera-controls
 	      
 ></model-viewer>
-  </body>
-	  
-</div>
-	  
+		</div>
+	</article>
+		
+		<foot class="footflex-container">
+			<div class="flex-item">
+				<p>武田英樹</p>
+			</div>
+			<div class="flex-item">
+				<div class="logo-wrap">
+					<img src=images/sign2.png>
+				</div>
+			</div>
+			<div class="flex-item">
+				<div class="logo-wrap">
+					<img src=images/bn_Mark.png>
+				</div>
+			</div>
+		</foot>
+		
+	
+	</div>
+	</div>
+	
+</body>
 </html>
