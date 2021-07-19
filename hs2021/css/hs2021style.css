@@ -32,10 +32,13 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
 }
 
 
-.head-title h1{font-size:1.5rem;}
-	
-.head-title p{font-size:1.5rem;}
+.head-title h1{
+	font-size::;200%;
+}
 
+.head-title p{
+	font-size:120%;
+}
 
 
 .footflex-container{
