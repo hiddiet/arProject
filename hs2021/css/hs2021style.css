@@ -31,7 +31,6 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
 .ar-wrap{
 	display:flex;
 	widows: 520px;
-	height:500px;
 	justify-content: center;
 }
 
