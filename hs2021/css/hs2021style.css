@@ -11,15 +11,15 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,YuGothic, "游ゴシ�
   width="100%";
   }
 
-page-title{
+.page-title{
   font size = "2rem";
   text-align="center";
   }
   
-title p{
+.page-title p{
   text-align="right";
 
-viewer{
+.viewer{
   width="100%";
   }
 
