@@ -1,17 +1,14 @@
 @charset "UTF-8";
 html{
   font-size: 100% ;
-  width:600px
-  }
+   }
 
 
 body{
 font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴシック体", "ヒラギノ角ゴ Pro M3", Sans-serif;
-  width: 100%;
-  }
+   }
 
 .page-title{
-  width=100%;
   }
   
 .page-title h1{
@@ -25,6 +22,5 @@ font-family: "Yu FGothic Medium","游ゴシック Medium" ,"YuGothic", "游ゴ�
   }
 
 .viewerstyle{
-  max-width: 100% ;
   }
 
