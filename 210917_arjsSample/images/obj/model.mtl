@@ -1,0 +1,26 @@
+# Blender MTL File: '210917_idleWhiteMan.blend'
+# Material Count: 2
+
+newmtl Ch31_body
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump /Volumes/p029m/home/app/mixamo-mini/tmp/skins_89b7439c-b44e-47d6-ac67-f12d3a0a764b.fbm/Ch31_1001_Normal.png
+map_Ns /Volumes/p029m/home/app/mixamo-mini/tmp/skins_89b7439c-b44e-47d6-ac67-f12d3a0a764b.fbm/Ch31_1001_Glossiness.png
+
+newmtl Ch31_hair
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump /Volumes/p029m/home/app/mixamo-mini/tmp/skins_89b7439c-b44e-47d6-ac67-f12d3a0a764b.fbm/Ch31_1001_Normal.png
+map_d /Volumes/p029m/home/app/mixamo-mini/tmp/skins_89b7439c-b44e-47d6-ac67-f12d3a0a764b.fbm/Ch31_1002_Diffuse.png
